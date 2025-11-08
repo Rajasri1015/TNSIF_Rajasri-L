@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module Himalaya_Products {
-}
